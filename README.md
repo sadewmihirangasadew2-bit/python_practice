@@ -6,6 +6,7 @@ This repository contains Python programs that I created while learning Software 
 - Student Grade Checker
 - Largest Number Checker
 - Positive or Negative Number Checker
+- calculator
 
 ## Skills Practiced
 
