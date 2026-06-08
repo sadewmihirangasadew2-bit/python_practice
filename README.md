@@ -1,2 +1,18 @@
 # python_practice
-daily python practice projects that are helpful
+This repository contains Python programs that I created while learning Software Engineering.
+
+## Projects
+
+- Student Grade Checker
+- Largest Number Checker
+- Positive or Negative Number Checker
+
+## Skills Practiced
+
+- Variables
+- Input and Output
+- Conditional Statements
+- Functions
+- Problem Solving
+
+Created by Sadew Mihiranga.
